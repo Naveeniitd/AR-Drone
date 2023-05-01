@@ -14,5 +14,6 @@ To use the AR drone, follow these steps:
 
  1. Launch the app on your device.
  2. Place your device on a flat surface and tap the Fly button to take off.
+ ![Alt text](/images/Fly.png "Fly")
  3. Use the on-screen buttons to control the drone's movement.
  4. Tap the Land button to land the drone.
